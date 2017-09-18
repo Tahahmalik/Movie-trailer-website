@@ -11,7 +11,7 @@ This project also relies on Python module : `Fresh_tomatoes.py` , this module fi
 
 ## Getting started
 
-Download/Clone the project repository from : 
+Download/Clone the project repository from : https://github.com/Tahahmalik/Movie-trailer-website.git
 
 Navigate into the project directory , open the file `fresh_tomatoes.html` in a web browser.
 
