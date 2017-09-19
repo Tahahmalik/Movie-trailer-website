@@ -13,7 +13,10 @@ This project also relies on Python module : `Fresh_tomatoes.py` , this module fi
 
 Download/Clone the project repository from : https://github.com/Tahahmalik/Movie-trailer-website.git
 
-Navigate into the project directory , open the file `fresh_tomatoes.html` in a web browser.
+Open the file `entertainment_center.py` in the IDLE development environment program that comes with the python installation. You can add or remove your favourite movies in this file. Create a new variable below the last movie and assign that variable to an instance of the class Media.Movie , add the relevant movie details by passing arguments to the instance in the specified format :
+"[Title]" , "[Box Art link]", "[Trailer Link]"
+
+Save the file and then click on run > run module in the menu bar. The page will load up in the default browser
 
 Click on any of the movie artwork to start playing the trailer for that movie. 
 
